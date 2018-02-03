@@ -1,6 +1,6 @@
 # PEthShop
 
-An Ethereum based distributed application, using a private local blockchain, made for fun \& educational purpose, largely inspired from [Truffle Pet Shop](http://truffleframework.com/tutorials/pet-shop). **Project still in development progress**.
+An Ethereum based distributed application, using a private local blockchain, made for fun \& educational purpose, largely inspired from [Truffle Pet Shop](http://truffleframework.com/tutorials/pet-shop). **Project still in development**.
 
 ### Run your private blockchain
 
