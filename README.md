@@ -16,7 +16,7 @@ geth attach ~/repos/pethshop/pethshop-chaindata/geth.ipc
 > personal.newAccount("my_secure_password")
 "0x6923b81b6816f029037c43a32fa9caf4fd9bcb780"
 ```
-    
+
 Update truffle.js with your account Id.
 Finally, start a new shell and begin mining:
 
@@ -49,7 +49,21 @@ $ truffle test --network geth
   3 passing (1s)
 ```
 
+Then you simply deploy it to the blockchain
+
+```
+truffle deploy
+```
+
 ### User Interface
+
+Install and setup Metamask in your browser.
+
+Run the web server
+
+```
+npm run dev
+```
 
 **Work in progress**
 
